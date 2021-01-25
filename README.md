@@ -1,7 +1,7 @@
 I'm a (Freelance) Microsoft full stack developer with over 10 years of relevant experience. During this time, I have worked with both legacy systems and cutting edge technologies. My primary focus is the development of web and enterprise applications. But in my spare time I like to work on my game in Unity and some machine learning in Python.
 
 Web Development:
-I prefer to work with .NET Core, Angular 11+, MsSQL and SASS/LESS. But I also have extensive knowledge of legacy Microsoft systems like ASP.NET Webforms and MVC.  When it comes to frontend I'm also quite well versed in jQuery, Css3, Bootstrap3-5, AngularJS and Knockout.
+I prefer to work with .NET Core, Angular 11+, MsSQL and SASS/LESS. But I also have extensive knowledge of legacy Microsoft technologies like ASP.NET Webforms and MVC.  When it comes to frontend I'm also quite well versed in jQuery, Css3, Bootstrap3-5, AngularJS and Knockout.
 
 Mobile development:
 iOs native (Swift 4), Android native (Java) and Flutter (Dart)
