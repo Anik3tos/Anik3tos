@@ -5,16 +5,18 @@ I have worked with both Agile and SCRUM teams on a multitude of projects ranging
 With an IT degree from The Hague University and Microsoft certifications, I have all the necessary technical knowledge to successfully develop business software based on customer needs.
 
 Web Development:
-Experience working with IIS (ASP, ASP.NET and regular html pages). Websites designed in HTML 5, CSS3, Bootstrap, C# (ASP.NET) with usage of JSON, JSONP, REST, JavaScript, AngularJS, Angular 2-7, Knockout.js, jQuery, Ext JS, Ext.Net, XML, AJAX, LINQ to SQL and SQL (T-SQL and CLR C#), SQL Server and Oracle databases. Developed in Visual Studio 2008-2015 with Team Foundation Server. Also worked with and written Unit tests, Sharepoint extensions, CRM 2013 extensions, MS WebServices, WebApi's.
+I prefer to work with .NET Core, Angular 11+, MsSQL and SASS/LESS. But I also have extensive knowledge of legacy Microsoft systems like ASP.NET Webforms and MVC.  When it comes to frontend I'm also quite well versed in jQuery, Css3, Bootstrap3-5, AngularJS and Knockout.
 
 Mobile development:
 iOs native (Swift 4), Android native (Java) and Flutter (Dart)
 
 Programming languages:
-C, C++, C#, Dart, Visual Basic, Java, Javascript, PHP and Python.
+Preferred: C#, Javascript, Typescript
+Also experience working with: C, C++, Dart, Visual Basic, Java, PHP and Python.
 
 2D & 3D Graphics knowledgeable in:
-Photoshop, Illustrator, 3D Max 2008-2011, Maya, XSI, AutoCAD, Motionbuilder, Endorphin, 3D coat, UvLayout v2, ZBrush and Blender.
+Preferred: Photoshop, Illustrator and Blender
+Also experience working with: 3D Max, Maya, XSI, AutoCAD, Motionbuilder, Endorphin, 3D coat, UvLayout and ZBrush.
 
 Also worked with:
 Android SDK, DirectX 9 SDK, Ogre3D, Source Engine (Valve), ShiVa3D, Unity3D, LibGDX, AndEngine and Esenthel. 
