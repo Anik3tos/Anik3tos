@@ -1,6 +1,8 @@
+<h1 align="center">About me</h1>
+
 I'm a (Freelance) Microsoft full stack developer with over 10 years of relevant experience. During this time, I have worked with both legacy systems and cutting edge technologies. My primary focus is the development of web and enterprise applications. But in my spare time I like to work on my game in Unity and some machine learning in Python.
 
-**Skill stack**
+<h1 align="center">Skill stack</h1>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -56,5 +58,10 @@ I'm a (Freelance) Microsoft full stack developer with over 10 years of relevant 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+<h1 align="center">Streak</h1>
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=anik3tos&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
 
