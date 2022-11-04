@@ -1,6 +1,6 @@
 <h1 align="center">About me</h1>
 
-I'm a (Freelance) Microsoft full stack developer with over 10 years of relevant experience. During this time, I have worked with both legacy systems and cutting edge technologies. My primary focus is the development of web and enterprise applications. But in my spare time I like to work on my game in Unity and some machine learning in Python.
+I'm a (Freelance) Microsoft full stack developer with over 10 years of relevant experience. During this time, I have worked with both legacy systems and cutting edge technologies. My primary focus is the development of web and enterprise applications. But in my spare time I like to work on my game in Unity and some machine learning and crypto/stock trading in Python.
 
 <h1 align="center">Skill stack</h1>
 
