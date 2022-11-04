@@ -55,3 +55,6 @@ I'm a (Freelance) Microsoft full stack developer with over 10 years of relevant 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anik3tos&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
