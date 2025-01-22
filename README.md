@@ -61,7 +61,7 @@ I'm a (Freelance) Microsoft full stack developer with over 10 years of relevant 
 <h1 align="center">Streak</h1>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anik3tos&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anik3tos&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
