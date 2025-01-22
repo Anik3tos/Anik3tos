@@ -1,6 +1,6 @@
 <h1 align="center">About me</h1>
 
-I'm a (Freelance) Microsoft full stack developer with over 10 years of relevant experience. During this time, I have worked with both legacy systems and cutting edge technologies. My primary focus is the development of web and enterprise applications. But in my spare time I like to work on my game in Unity and some machine learning and crypto/stock trading in Python.
+I'm a seasoned Full Stack Developer with over a decade of experience in Microsoft technologies. My journey spans from maintaining legacy systems to implementing cutting-edge solutions. While my primary focus is developing robust web and enterprise applications, I'm passionate about exploring new technologies through side projects:
 
 <h1 align="center">Skill stack</h1>
 
@@ -53,15 +53,7 @@ I'm a (Freelance) Microsoft full stack developer with over 10 years of relevant 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-<h1 align="center">Streak</h1>
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Anik3tos&theme=dark)](https://git.io/streak-stats)
-  
-</div>
 
