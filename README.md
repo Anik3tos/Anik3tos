@@ -21,33 +21,24 @@ var aboutMe = new {
 };
 ```
 
-## 🔧 Technical Expertise
+## 🔧 Technologies & Skills
 
-### Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?logo=azurefunctions&logoColor=white)
-![Azure Active Directory](https://img.shields.io/badge/Azure_AD-0078D4?logo=microsoftazure&logoColor=white)
+- **Cloud Architecture**: Azure Infrastructure, DevOps Pipelines, Cost-Optimized Solutions
+- **Languages**: C#, JavaScript, TypeScript
+- **Frontend**: Angular, HTML5, CSS3
+- **Backend**: .NET Core (6-9), ASP.NET Core, WCF Services, Entity Framework Core
+- **Databases**: Azure SQL, Cosmos DB, SQL Server
+- **DevOps**: Azure DevOps, CI/CD Pipelines, Azure Boards
+- **Cloud Services**: Azure Functions, Azure Active Directory, Key Vault, Defender for Cloud
+- **Enterprise Integration**: BizTalk Server, Azure Service Bus
+- **AI & Analytics**: Azure Machine Learning, Power BI, Synapse Analytics
 
-### Development
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?logo=.net&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+## 🌱 Current Focus
 
-### Data & AI
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?logo=microsoftazure&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-
-## 🚀 Featured Projects
-
-- **Enterprise Cloud Migrations**: Architected and implemented migrations from on-premises to Azure for enterprise clients
-- **Custom Single-Sign On**: Implemented SSL certificate-based authentication for third-party portal access
-- **Pension Calculation Tools**: Developed financial projection tools with user behavior tracking
-- **Real-time Data Processing**: Built Azure-based solutions for processing and analyzing streaming data
+- Unity game development
+- Machine learning implementations
+- Full-stack web applications
+- Azure Infrastructure
 
 ## 📜 Certifications
 
@@ -57,6 +48,7 @@ var aboutMe = new {
 - MS: Programming in HTML5 with JavaScript and CSS3
 - MCSA: Web Applications
 - Unity Certified Developer
+- Dive Into Refactoring 
 
 ## 📫 Connect With Me
 
