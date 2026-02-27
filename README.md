@@ -42,13 +42,12 @@ var aboutMe = new {
 
 ## 📜 Certifications
 
-- Microsoft Certified: Azure Solutions Architect Expert
-- Azure DevOps Engineer Expert
+- MS: Developing Solutions for Microsoft Azure
 - MS: Developing ASP.NET MVC Web Applications
 - MS: Programming in HTML5 with JavaScript and CSS3
-- MCSA: Web Applications
 - Unity Certified Developer
-- Dive Into Refactoring 
+- Dive Into Refactoring
+- CCNA-1 Network Basics
 
 ## 📫 Connect With Me
 
